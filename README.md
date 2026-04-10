@@ -1,22 +1,32 @@
-# Basic Calendar Display
+# 📅 Basic Calendar Display
 
-## Description
-This project is a GUI-based calendar application built using Python and Tkinter.
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green)
+![Project](https://img.shields.io/badge/Project-Active-brightgreen)
 
-## Features
-- Displays full year calendar
-- Colorful UI
-- User-friendly interface
+A simple and interactive **Full Year Calendar GUI Application** built using Python and Tkinter. It allows users to enter a year and view all 12 months in a structured and colorful format.
 
-## Technologies
-- Python
-- Tkinter
-- Calendar Module
+---
 
-## How to Run
-1. Install Python
-2. Run the script:
-   python calendar.py
+## 📌 Features
 
-## Author
-Bhoomi Shivasharan
+- 📆 Displays full calendar of a given year  
+- 🎨 Colorful and attractive GUI  
+- ✅ Input validation (only 4-digit year allowed)  
+- 🧩 Grid layout (3 × 4 months display)  
+- 🔄 Clears previous output automatically  
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Tkinter  
+- Calendar Module  
+
+---
+
+## 🚀 How to Run
+
+1. Install Python  
+2. Run the program:
